@@ -1,0 +1,43 @@
+.herro{
+
+    background-image: url('img/outsite-co-R-LK3sqLiBw-unsplash.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#display{
+
+    padding-top: 260px;
+    padding-bottom: 220px;
+
+}
+
+.heding{
+
+    border: 1px solid #FDDC29;
+    padding: 7px;
+    margin-bottom: 0;
+
+}
+
+.img{
+
+    background-image: url('img/8.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#icon{
+
+    font-size: 36px;
+    color: #FDDC29;
+
+}
+
+.test{
+ margin-top: 150px;
+}
